@@ -12,7 +12,7 @@
 
 <div class="col-md-1">
     <div>
-        <a href="${SITE_URL}/admin" class="btn btn-warning pull-left">Back</a>
+        <a href="${SITE_URL}/superAdmin" class="btn btn-warning pull-left">Back</a>
     </div>
 </div>
 <div class="col-md-10">

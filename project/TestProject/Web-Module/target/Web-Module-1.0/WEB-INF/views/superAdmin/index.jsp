@@ -11,7 +11,8 @@
 
 <div class="col-md-1"></div>
 <div class="col-md-10">
-    <a href="${SITE_URL}/superAdmin/add" class="btn btn-primary pull-left">Add</a>
+    <a href="${SITE_URL}/superAdmin/add" class="btn btn-primary pull-left">Add Admin</a>
+    <a href="${SITE_URL}/superAdmin/user/add" class="btn btn-primary pull-left">Add User</a>
      <a href="${SITE_URL}/superAdmin/assign" class="btn btn-primary ">Assign Users</a>
     
 <table class="table table-bordered">
