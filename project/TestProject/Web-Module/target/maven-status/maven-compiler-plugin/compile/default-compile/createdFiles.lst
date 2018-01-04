@@ -1,0 +1,4 @@
+com\roit\demoApp\webModule\controller\AdminController.class
+com\roit\demoApp\webModule\controller\DefaultController.class
+com\roit\demoApp\webModule\controller\UserController.class
+com\roit\demoApp\webModule\controller\SuperAdminController.class
